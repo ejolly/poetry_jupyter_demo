@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": ".venv/bin/python3.8",
+    "python.formatting.blackPath": ".venv/bin/black",
+    "python.linting.pycodestylePath": ".venv/bin/pycodestyle",
+    "python.linting.flake8Path": ".venv/bin/flake8",
+    "editor.formatOnSave": true,
+    "python.linting.lintOnSave": true
+
+}

@@ -1,0 +1,12 @@
+# Basic mac and python ignores
+*.DS*
+**/.pytest_cache
+**/*.egg*
+**/*.pyc
+**/__pycache__
+
+# Don't commit the virtual environment and packages!
+.venv
+
+# Don't commit the build artifacts
+dist
